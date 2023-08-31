@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaR2D
 - 🤓 I’m interested in android and web programming
-- 🤠 I'm fluent in PHP,Java,JavaScript , html/css , Mysql
+- 🤠 I'm fluent in PHP,Java,JavaScript , html/css and MYSQL
 - 📫 Email : rmail.r2d@gmail.com
 - Instagram : @R2DReza
 - Telegram : @R2DPv
